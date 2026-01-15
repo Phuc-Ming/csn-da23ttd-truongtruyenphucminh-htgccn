@@ -1,8 +1,10 @@
 # Hệ thống Ghi chú Cá nhân Trực tuyến
 Đồ án cơ sở ngành - Thiết kế hệ thống ghi chú cá nhân trực tuyến ứng dụng công nghệ web động
+
 Tên: Trương Truyền Phúc Minh
 Email: ttphucminh2005@gmail.com
 SĐT: 0846011105
+
 ## Tính năng
 
 - Đăng ký và đăng nhập người dùng
@@ -80,3 +82,4 @@ CREATE TABLE note_history (
 - MySQL
 - Bootstrap 5
 - HTML/CSS/JavaScript
+
